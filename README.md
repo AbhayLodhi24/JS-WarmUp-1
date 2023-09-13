@@ -6,6 +6,9 @@ https://dynamic-color-changing-rectangle.netlify.app/
 
 # Screenshots
 ![Cursor at left corner of rectangle](./Screenshots/red-left.png)
+---
 ![Cursor at middle-left of rectangle](./Screenshots/red-middle.png)
+---
 ![Cursor at middle-left  of rectangle](./Screenshots/blue-middle.png)
+---
 ![Cursor at right corner of rectangle](./Screenshots/blue-right.png)
