@@ -5,10 +5,14 @@ In this basic JavaScript project, we have a central rectangle on the screen, and
 https://dynamic-color-changing-rectangle.netlify.app/
 
 # Screenshots
+## Mouse cursor at leftmost point of the rectangle --> High red color intensity
 ![Cursor at left corner of rectangle](./Screenshots/red-left.png)
 ---
+## Mouse cursor at middle left side --> low red color intensity
 ![Cursor at middle-left of rectangle](./Screenshots/red-middle.png)
 ---
+## Mouse cursor at middle right side --> low blue color intensity
 ![Cursor at middle-left  of rectangle](./Screenshots/blue-middle.png)
 ---
+## Mouse cursor at right side of the rectangle --> Hight blue color intensity
 ![Cursor at right corner of rectangle](./Screenshots/blue-right.png)
