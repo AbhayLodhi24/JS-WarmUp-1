@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+#rect{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50% , -50%);
+    width: 350px;
+    height: 150px;
+    border: 2px solid black;
+}
